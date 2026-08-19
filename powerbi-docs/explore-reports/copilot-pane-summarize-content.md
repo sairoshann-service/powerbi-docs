@@ -109,7 +109,7 @@ In a summary response from the Copilot pane, citations are provided within the s
 
 ## Custom prompts
 
-The benefit goes beyond providing a generic summary for a consumer. You can type custom prompts to request a specific summary, such as a bulleted list or a summary specifically about sales, or about another nuanced slice of your data. You can even ask about data behind slicers and filters on your report page.  As long as the filter or slicer exists in the report, Copilot can filter the response for you. You can also ask about visuals that are hidden by default and revealed only when a display-only report bookmark is triggered through a bookmark button or bookmark navigator.
+The benefit goes beyond providing a generic summary for a consumer. You can type custom prompts to request a specific summary, such as a bulleted list or a summary specifically about sales, or about another nuanced slice of your data. You can even ask about data behind slicers and filters on your report page. As long as the filter or slicer exists in the report, Copilot can filter the response for you. You can also ask about visuals that are hidden by default and revealed only when a display-only report bookmark is triggered through a bookmark button or bookmark navigator.
 
 :::image type="content" source="../create-reports/media/copilot-pane-summarize-content/bulleted-insights.png" alt-text="Screenshot showing type custom prompts to request a specific summary." lightbox="../create-reports/media/copilot-pane-summarize-content/bulleted-insights.png":::
 
@@ -241,7 +241,7 @@ The following limitations and considerations apply to both experiences (also see
     
 - Bookmark limitations:
 
-  - Only display-only report bookmarks are supported, meaning bookmarks where Data is cleared in the Bookmarks pane, so the bookmark changes only visibility and not filters or slicers.
+  - Only display-only report bookmarks are supported. In the **Bookmarks** pane, clear **Data** so the bookmark changes only visibility, not filters or slicers.
   
   - The bookmark must be reachable from the report through a bookmark button or bookmark navigator. Bookmarks without a user-facing affordance are excluded.
   
